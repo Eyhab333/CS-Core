@@ -18,4 +18,5 @@ int main()
     cout << "\nOkay dude, you will pay: " << MonthlyPayment << " every month to settle the loan.\n";
 
     return 0;
+    
 }
